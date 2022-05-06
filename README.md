@@ -9,5 +9,8 @@
 ## OH-GEEZ TOKEN
 `ohgeez.levx.eth` or [0x1098269bFc70b26DeA43f18F812D2b9854E874bA](https://etherscan.io/address/0x1098269bFc70b26DeA43f18F812D2b9854E874bA)
 
+## ZERO
+`zero.levx.eth` or [0x66d592cc979d441A3E4dbb6E043C3bDaD241DAb7](https://etherscan.io/address/0x66d592cc979d441A3E4dbb6E043C3bDaD241DAb7)
+
 ## SHARKPUNKS
 `sharkpunks.eth` or [0xa59a5B0C946086d6884455A6a556729d747d16D3](https://etherscan.io/address/0xa59a5B0C946086d6884455A6a556729d747d16D3) 
