@@ -6,6 +6,9 @@
 ## LEVX TOKEN
 `token.levx.eth` or [0xf474E526ADe9aD2CC2B66ffCE528B1A51B91FCdC](https://etherscan.io/address/0xf474E526ADe9aD2CC2B66ffCE528B1A51B91FCdC)
 
+## THANO$ TOKEN
+`thano.eth` or [0x77D3d884FeA1E389150a26D4569b20ebA284A86d](https://etherscan.io/address/0x77D3d884FeA1E389150a26D4569b20ebA284A86d)
+
 ## OH-GEEZ TOKEN
 `ohgeez.levx.eth` or [0x1098269bFc70b26DeA43f18F812D2b9854E874bA](https://etherscan.io/address/0x1098269bFc70b26DeA43f18F812D2b9854E874bA)
 
